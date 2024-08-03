@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Air COnditioner Remote Controller Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -14,11 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### Air Conditioner Remote Controller Project
+# Air Conditioner Remote Controller Project
 
 This project is created to practice and discover the use of usestate in react. The project is beginner-firendly and easy to understand
 
-### Features :- 
+# Features :- 
 
 1. Added features like the color of the temperature block changes according to the temperature range which helps in easy understanding of  the temperature
 
