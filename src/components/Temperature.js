@@ -30,7 +30,7 @@ const Temperature = () => {
             return "red"
         }else if(temp >= 20){
             return "orange"
-        }else if(temp >= 10){
+        }else{
             return "yellow"
         }
     }
